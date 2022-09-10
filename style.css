@@ -114,7 +114,7 @@ div.nav-element:hover{
     50% {border: 10px solid lightblue}
 }
 div.sub-items:hover,div.sub-item2:hover{
-    background-color: rgb(229, 242, 242);
+    background-color: rgb(255, 255, 255);
     transform: scale(1.1);
 }
 @media(max-width:1024px)
